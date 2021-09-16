@@ -1,8 +1,7 @@
 ### 🛠 &nbsp;Technology I Used here...
 
 Portfolio Website
-## [Live](https://sunjid-dev.web.app/) 
-### [GitHub](https://github.com/sunjid-git/sunjid-hasan)
+## [Live](https://sunjid-dev.web.app/) | ### [GitHub](https://github.com/sunjid-git/sunjid-hasan)
 
 Portfolio website
 ## [Live](https://sunjid-hasan.web.app/) 
