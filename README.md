@@ -24,7 +24,7 @@
 ## [myPersonalWebSite - Live](https://github.com/sunjid-git/myPersonalWebSite/edit/main/README.md) | [GitHub](https://sunjid-git.github.io/myPersonalWebSite/)
 ## [Login Form Neumorphic Design - Live](https://sunjid-git.github.io/Login-Form-Neumorphic-Design/) | [GitHub](https://github.com/sunjid-git/Login-Form-Neumorphic-Design/blob/main/README.md)
 ## [Personal WebSite - Live](https://github.com/sunjid-git/mileStoneOnePersonalWebSite/blob/main/README.md) | [GitHub](https://sunjid-git.github.io/mileStoneOnePersonalWebSite/)
-## [Responsive Landing Page - Live]https://sunjid-git.github.io/mileStoneTwoResponsiveLandingPage/) | [GitHub](https://github.com/sunjid-git/mileStoneTwoResponsiveLandingPage/blob/main/README.md)
+## [Responsive Landing Page - Live](https://sunjid-git.github.io/mileStoneTwoResponsiveLandingPage/) | [GitHub](https://github.com/sunjid-git/mileStoneTwoResponsiveLandingPage/blob/main/README.md)
 ## [Penguin Fashion - Live](https://sunjid-git.github.io/penguin-fashion/) | [GitHub](https://github.com/sunjid-git/penguin-fashion/blob/main/README.md)
 ## [WebDev Bank - Live](https://sunjid-git.github.io/WebDev-Bank/index.html) | [GitHub](https://github.com/sunjid-git/WebDev-Bank)
 
