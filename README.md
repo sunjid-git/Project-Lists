@@ -28,7 +28,7 @@
 ## [Penguin Fashion - Live](https://sunjid-git.github.io/penguin-fashion/) | [GitHub](https://github.com/sunjid-git/penguin-fashion/blob/main/README.md)
 ## [WebDev Bank - Live](https://sunjid-git.github.io/WebDev-Bank/index.html) | [GitHub](https://github.com/sunjid-git/WebDev-Bank)
 
-## [WebDev Bank - Live](https://sunjid-git.github.io/pin-matcher/) | [GitHub](https://github.com/sunjid-git/pin-matcher)
+## [pin matcher - Live](https://sunjid-git.github.io/pin-matcher/) | [GitHub](https://github.com/sunjid-git/pin-matcher)
 
 
 ### 📫 Find Me here
